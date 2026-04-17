@@ -39,9 +39,7 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 
 ### Get Involved
 
-This is an open movement, not just a codebase. We're building the missing layer between LLMs and real-world operational competence.
-
-Whether you're an AI researcher, a developer building agents, or a business leader tired of AI that knows everything but understands nothing — there's a place for you here.
+We're building the missing layer between LLMs and real-world operational competence. If you're interested in the future of AI cognition — we'd love to hear from you.
 
 **[Join the conversation &rarr;](https://github.com/Situational-AI/situational-ai.github.io/discussions)**
 
