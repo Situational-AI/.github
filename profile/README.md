@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://situational-ai.github.io">Website</a> &middot;
+  <a href="https://situational-ai.github.io/vision.html">Vision</a> &middot;
   <a href="https://situational-ai.github.io/blog/">Blog</a> &middot;
   <a href="https://github.com/Situational-AI/situational-ai.github.io/discussions">Discussions</a> &middot;
   <a href="https://github.com/Situational-AI/situational-ai.github.io/blob/main/CONTRIBUTING.md">Contribute</a>
