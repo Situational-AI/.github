@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/banner.png" alt="Situational AI — The Missing Piece of Human-like Agentic AI Cognition" width="900">
+  <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-tm-dark.png" alt="Situational AI" width="600">
 </p>
 
 <p align="center">
@@ -21,28 +21,6 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 **Situational AI** is the perceptual layer for AI. We build cognitive architecture that gives machines the ability to read situations — not just process data — so they can work, decide, and collaborate the way humans do.
 
 **[Read more about the vision &rarr;](https://situational-ai.github.io)**
-
----
-
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>Perceive</h3>
-<em>Read the situation</em><br><br>
-Continuous detection of business situations — not reactive prompting, but always-on awareness.
-</td>
-<td width="33%" align="center">
-<h3>Decide</h3>
-<em>Act or ask</em><br><br>
-Pre-encoded organizational judgment as guardrails — AI doesn't rediscover your rules every call.
-</td>
-<td width="33%" align="center">
-<h3>Collaborate</h3>
-<em>Work as a team</em><br><br>
-Autonomous agent coordination — services discover each other, not manually wired.
-</td>
-</tr>
-</table>
 
 ---
 
