@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-tm-dark.png" alt="Situational AI" width="600">
+  <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-tm-dark.png" alt="Situational AI" width="100%">
 </p>
 
 <p align="center">
