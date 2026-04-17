@@ -23,25 +23,9 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 
 ---
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>Perceive</h3>
-<em>Read the situation</em><br><br>
-Continuous detection of business situations — not reactive prompting, but always-on awareness.
-</td>
-<td width="33%" align="center">
-<h3>Decide</h3>
-<em>Act or ask</em><br><br>
-Pre-encoded organizational judgment as guardrails — AI doesn't rediscover your rules every call.
-</td>
-<td width="33%" align="center">
-<h3>Collaborate</h3>
-<em>Work as a team</em><br><br>
-Autonomous agent coordination — services discover each other, not manually wired.
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>Perceive.</strong> Read the situation. &nbsp;&nbsp; <strong>Decide.</strong> Act or ask. &nbsp;&nbsp; <strong>Collaborate.</strong> Work as a team.
+</p>
 
 ---
 
