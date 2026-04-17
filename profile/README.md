@@ -1,26 +1,51 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png">
-    <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png" alt="Situational AI" width="800">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/banner.png" alt="Situational AI — The Missing Piece of Human-like Agentic AI Cognition" width="900">
 </p>
 
-<h3 align="center">Machines Learned to Think. We're Teaching Them to Perceive.</h3>
+<p align="center">
+  <strong>Machines Learned to Think. We're Teaching Them to Perceive.</strong>
+</p>
+
+<p align="center">
+  <a href="https://situational-ai.github.io">Website</a> &middot;
+  <a href="https://situational-ai.github.io/blog/">Blog</a> &middot;
+  <a href="https://github.com/Situational-AI/situational-ai.github.io/discussions">Discussions</a> &middot;
+  <a href="https://github.com/Situational-AI/situational-ai.github.io/blob/main/CONTRIBUTING.md">Contribute</a>
+</p>
+
+---
 
 AI has intelligence. What it lacks is **experience** — the accumulated judgment of how your world actually works.
 
 **Situational AI** is the perceptual layer for AI. We build cognitive architecture that gives machines the ability to read situations — not just process data — so they can work, decide, and collaborate the way humans do.
 
----
-
-**Perceive.** Read the situation.
-**Decide.** Act or ask.
-**Collaborate.** Work as a team.
+**[Read more about the vision &rarr;](https://situational-ai.github.io)**
 
 ---
 
-### What Makes This Different
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>Perceive</h3>
+<em>Read the situation</em><br><br>
+Continuous detection of business situations — not reactive prompting, but always-on awareness.
+</td>
+<td width="33%" align="center">
+<h3>Decide</h3>
+<em>Act or ask</em><br><br>
+Pre-encoded organizational judgment as guardrails — AI doesn't rediscover your rules every call.
+</td>
+<td width="33%" align="center">
+<h3>Collaborate</h3>
+<em>Work as a team</em><br><br>
+Autonomous agent coordination — services discover each other, not manually wired.
+</td>
+</tr>
+</table>
+
+---
+
+### The Perception Gap
 
 | | Traditional AI | Situational AI |
 |---|---|---|
@@ -29,7 +54,7 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 | **Coordination** | Manually wired agents | Autonomous discovery and service coordination |
 | **Detection** | Reactive prompting | Continuous situation detection |
 
-> Not smarter AI. **Operationally competent AI.**
+> *Not smarter AI. **Operationally competent AI.***
 
 ---
 
@@ -37,11 +62,12 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 
 This is an open movement, not just a codebase. We're building the missing layer between LLMs and real-world operational competence.
 
-- **[Website](https://situational-ai.github.io)** — Learn the vision
-- **[Blog](https://situational-ai.github.io/blog/)** — Deep dives on architecture and philosophy
-- **[Discussions](https://github.com/Situational-AI/situational-ai.github.io/discussions)** — Join the conversation
-- **[Contributing Guide](https://github.com/Situational-AI/situational-ai.github.io/blob/main/CONTRIBUTING.md)** — How to participate
+Whether you're an AI researcher, a developer building agents, or a business leader tired of AI that knows everything but understands nothing — there's a place for you here.
+
+**[Join the conversation &rarr;](https://github.com/Situational-AI/situational-ai.github.io/discussions)**
 
 ---
 
-*Built by [Mindspace AI](https://mindspaceai.com) and the Situational AI community.*
+<p align="center">
+  <sub>Built by <a href="https://botswork.ai">BotsWork.ai</a> &middot; <a href="https://mindspaceai.com">Mindspace AI</a> &middot; and the Situational AI community</sub>
+</p>
