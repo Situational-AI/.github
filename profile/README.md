@@ -20,7 +20,15 @@ AI has intelligence. What it lacks is **experience** — the accumulated judgmen
 
 **Situational AI** is the perceptual layer for AI. We build cognitive architecture that gives machines the ability to read situations — not just process data — so they can work, decide, and collaborate the way humans do.
 
-**[Read more about the vision &rarr;](https://situational-ai.github.io)**
+---
+
+### The Vision
+
+Every technology era gets one defining shift. Computers. Internet. Mobile. Cloud. Now: **AI Agents.** But today's agents are reactive — they follow prompts, not judgment. They process data, they don't read situations.
+
+Situational AI introduces **situations as the atomic unit of AI cognition** — combining context, intent, and meaning the way humans naturally think. Not smarter models. Smarter perception.
+
+**[Read the full vision &rarr;](https://situational-ai.github.io/vision.html)**
 
 ---
 
