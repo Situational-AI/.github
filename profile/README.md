@@ -1,6 +1,12 @@
-# Situational AI
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png">
+    <img src="https://raw.githubusercontent.com/Situational-AI/.github/main/profile/assets/situational-ai-banner.png" alt="Situational AI" width="800">
+  </picture>
+</p>
 
-### Machines Learned to Think. We're Teaching Them to Perceive.
+<h3 align="center">Machines Learned to Think. We're Teaching Them to Perceive.</h3>
 
 AI has intelligence. What it lacks is **experience** — the accumulated judgment of how your world actually works.
 
